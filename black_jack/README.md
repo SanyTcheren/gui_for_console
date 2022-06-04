@@ -1,1 +1,2 @@
-# black_jack
+# Black Jack
+Classic black jack on terminal
