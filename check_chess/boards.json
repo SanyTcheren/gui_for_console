@@ -1,0 +1,84 @@
+{
+    "board1": [
+        [
+            "brook",
+            "bknight",
+            " ",
+            "wbishop",
+            " ",
+            " ",
+            "bknight",
+            "brook"
+        ],
+        [
+            "bpawn",
+            "bpawn",
+            " ",
+            "bbishop",
+            " ",
+            "bpawn",
+            "bpawn",
+            "bpawn"
+        ],
+        [
+            "bking",
+            " ",
+            " ",
+            "bpawn",
+            " ",
+            " ",
+            "wbishop",
+            "bbishop"
+        ],
+        [
+            " ",
+            " ",
+            "bpawn",
+            " ",
+            " ",
+            "wrook",
+            " ",
+            " "
+        ],
+        [
+            "bqueen",
+            " ",
+            "wpawn",
+            " ",
+            " ",
+            "bpawn",
+            " ",
+            " "
+        ],
+        [
+            " ",
+            "wqueen",
+            " ",
+            " ",
+            "wpawn",
+            "wpawn",
+            "wknight",
+            " "
+        ],
+        [
+            "wpawn",
+            " ",
+            "wpawn",
+            "wpawn",
+            " ",
+            " ",
+            "wpawn",
+            "wpawn"
+        ],
+        [
+            " ",
+            "wknight",
+            " ",
+            " ",
+            "wking",
+            " ",
+            " ",
+            " "
+        ]
+    ]
+}

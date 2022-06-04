@@ -1,0 +1,98 @@
+{
+    "board": [
+        [
+            "brook",
+            "bknight",
+            "bbishop",
+            "bqueen",
+            "bking",
+            "bbishop",
+            "bknight",
+            "brook"
+        ],
+        [
+            "bpawn",
+            "bpawn",
+            "bpawn",
+            "bpawn",
+            "bpawn",
+            "bpawn",
+            "bpawn",
+            "bpawn"
+        ],
+        [
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " "
+        ],
+        [
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " "
+        ],
+        [
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " "
+        ],
+        [
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " "
+        ],
+        [
+            "wpawn",
+            "wpawn",
+            "wpawn",
+            "wpawn",
+            "wpawn",
+            "wpawn",
+            "wpawn",
+            "wpawn"
+        ],
+        [
+            "wrook",
+            "wknight",
+            "wbishop",
+            "wqueen",
+            "wking",
+            "wbishop",
+            "wknight",
+            "wrook"
+        ]
+    ],
+    "figures": {
+        "wking": "\u2654 ",
+        "wqueen": "\u2655 ",
+        "wbishop": "\u2657 ",
+        "wknight": "\u2658 ",
+        "wrook": "\u2656 ",
+        "wpawn": "\u2659 ",
+        "bking": "\u265a ",
+        "bqueen": "\u265b ",
+        "bbishop": "\u265d ",
+        "bknight": "\u265e ",
+        "brook": "\u265c ",
+        "bpawn": "\u265f "
+    }
+}
